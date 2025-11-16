@@ -5,7 +5,7 @@
 <h2>&#128736; Технические навыки</h2>
 <h4>python,JavaScript,Html,Css</h4>
 <h2>&#128242; Контакты</h2>
-<h4>&#128231; Email: <a href="">abeznosikov7@gmail.com</a></h4>
+<h4>&#128231; Email: <a href="mailto:abeznosikov7@gmail.com">abeznosikov7@gmail.com</a></h4>
 <h4>&#128222; Телефон: +7 (912) 170-20-87</h4>
 <h4>&#x2708; Telegram<a href="https://t.me/Alexander_05_04">@Alexander_05_04</a></h4>
 <h4>&#x1F310; GitHub:<a href="https://github.com/Alexander-05-20">github.com/Alexander-05-20</a></h4>
